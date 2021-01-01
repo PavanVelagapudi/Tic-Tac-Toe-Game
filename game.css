@@ -1,0 +1,13 @@
+#main-Container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 3fr 1fr;
+    justify-items: center;
+    align-items: center;
+}
+
+#player-Info{
+    display: grid;
+    justify-items: center;
+    align-items: baseline;
+}
